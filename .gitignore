@@ -1,0 +1,45 @@
+
+/captures
+
+# OS specific files
+.DS_Store
+
+# gradle
+.gradle
+
+# Android specific files
+*.apk
+*.dex
+
+# Generated fiels
+bin/
+gen/
+
+# Java
+*.class
+
+# IDEA/Android Studio specific files
+/build
+out/
+*.iml
+*/build/
+/*/out
+/*/*/production
+*~
+*.swp
+.settings/
+/.idea/workspace.xml
+/.idea/libraries
+
+# Eclipse project files
+.classpath
+.project
+
+#idea project files
+.idea/
+
+# Others
+/local.properties
+/*/local.properties
+*.iws
+*.ipr
