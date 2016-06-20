@@ -1,3 +1,3 @@
-# Zakat Calculator
+# Android Data Bindigg Include Style
 
-This project is for ZakatCalculator using 2 way binding.
+This project is a demo of includ layout structure in Android Databind.
